@@ -42,3 +42,31 @@ p {
     font-synthesis: none;
     text-rendering: optimizeLegibility;
 }
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+/* Hero Section Styling */
+
+.hero-section .container {
+    display: grid;
+    place-content: center;
+    height: inherit;
+}
+
+.bg-main {
+    height: 80vh;
+}
+
+.hero-image-section {
+    max-width: 100%;
+    height: auto;
+    width: 80%;
+    border-radius: 2rem;
+}
+
