@@ -61,11 +61,11 @@ li {
 
 .bg-main {
     height: 80vh;
+    position: relative;
 }
 
 .hero-image-section {
     max-width: 100%;
-    height: auto;
     width: 80%;
     border-radius: 2rem;
 }
