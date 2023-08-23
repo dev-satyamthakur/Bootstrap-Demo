@@ -51,6 +51,16 @@ li {
     list-style: none;
 }
 
+.nav-link {
+    color: var(--bs-main-color);
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: var(--secondary-color) !important;
+}
+
+
 /* Hero Section Styling */
 
 .hero-section .container {
@@ -63,6 +73,19 @@ li {
     height: 80vh;
     position: relative;
 }
+
+.bg-color {
+    background-color: var(--bs-dark-primary);
+}
+
+.text-light-grey {
+    color: #c6c6c6;
+}
+
+/* .bg-theme {
+    color: var(--bs-supporting-color);
+    background-image: none!important;
+} */
 
 .hero-image-section {
     max-width: 100%;
