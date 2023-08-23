@@ -60,6 +60,12 @@ li {
     color: var(--secondary-color) !important;
 }
 
+button, a {
+    font-size: 1.15rem!important;
+    letter-spacing: 0.03rem;
+    word-spacing: .1rem;
+}
+
 
 /* Hero Section Styling */
 
