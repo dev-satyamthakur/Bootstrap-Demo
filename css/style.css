@@ -95,28 +95,26 @@ button, a {
 
 .hero-image-section {
     max-width: 100%;
-    width: 80%;
+    width: 70%;
     border-radius: 2rem;
 }
 
-.custom-shape-divider-bottom-1692760901 {
+.custom-shape-divider-bottom-1692863479 {
     position: absolute;
     bottom: 0;
     left: 0;
     width: 100%;
     overflow: hidden;
     line-height: 0;
-    transform: rotate(180deg);
 }
 
-.custom-shape-divider-bottom-1692760901 svg {
+.custom-shape-divider-bottom-1692863479 svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 81px;
-    transform: rotateY(180deg);
 }
 
-.custom-shape-divider-bottom-1692760901 .shape-fill {
+.custom-shape-divider-bottom-1692863479 .shape-fill {
     fill: #FFFFFF;
 }
