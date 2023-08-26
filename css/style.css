@@ -141,3 +141,7 @@ button, a {
     background-color: var(--secondary-color);
     color: var(--bs-main-color);
 }
+
+.card-box:hover {
+    box-shadow: rgba(149, 157, 165, 0.3) 0 8px 24px;
+}
