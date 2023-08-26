@@ -73,7 +73,6 @@ button, a {
 }
 
 .common-title {
-    margin-top: 4.2rem;
     margin-bottom: 4.2rem;
 }
 
@@ -128,4 +127,10 @@ button, a {
 
 .custom-shape-divider-bottom-1692863479 .shape-fill {
     fill: #FFFFFF;
+}
+
+/* Services Section CSS */
+
+.services-section {
+    padding: 6rem 0 3rem 0!important;
 }
