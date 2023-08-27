@@ -162,7 +162,6 @@ button, a {
 }
 
 .more-info-section .img-section img {
-    position: absolute;
-    left: 0;
+    padding: 12px;
     width: 70%;
 }
