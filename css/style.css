@@ -13,7 +13,7 @@
     --bs-dark-primary: #1c1c1c;
     --bs-main-color: #fff;
     --bs-primary-color: #c6c6c6;
-    --secondary-color: #29a9fd;
+    --secondary-color: #00da57;
     --bs-supporting-color: #c850c0;
 }
 
@@ -148,11 +148,21 @@ button, a {
 
 /* more-info-section styling */
 .more-info-section {
-    background-image: linear-gradient(rgba(22, 22, 22,0.9), rgba(22, 22, 22, 0.9)), url("https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-image: linear-gradient(rgba(22, 22, 22,  0.8), rgba(22, 22, 22, 0.8)), url("https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     padding: 4rem 0;
     overflow: hidden;
+}
+
+.more-info-section .img-section {
+    position: relative;
+}
+
+.more-info-section .img-section img {
+    position: absolute;
+    left: 0;
+    width: 70%;
 }
