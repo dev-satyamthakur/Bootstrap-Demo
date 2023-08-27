@@ -145,3 +145,14 @@ button, a {
 .card-box:hover {
     box-shadow: rgba(149, 157, 165, 0.3) 0 8px 24px;
 }
+
+/* more-info-section styling */
+.more-info-section {
+    background-image: linear-gradient(rgba(22, 22, 22,0.9), rgba(22, 22, 22, 0.9)), url("https://images.pexels.com/photos/3182773/pexels-photo-3182773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 4rem 0;
+    overflow: hidden;
+}
