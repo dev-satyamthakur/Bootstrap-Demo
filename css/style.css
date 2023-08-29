@@ -173,3 +173,15 @@ button, a {
 .business-section {
     padding-top: 3rem;
 }
+
+/* Carousel styling */
+.carousel .card {
+    background-color: #262631;
+    color: var(--bs-main-color);
+    transition: all 0.3s linear;
+}
+
+.carousel-inner .card p {
+    color: var(--bs-main-color);
+}
+
