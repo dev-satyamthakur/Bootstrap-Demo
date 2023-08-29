@@ -185,3 +185,13 @@ button, a {
     color: var(--bs-main-color);
 }
 
+.carousel-inner .card:hover {
+    background: var(--bs-main-color);
+    color: var(--bs-dark-color);
+}
+
+.carousel-inner .card:hover p {
+    color: var(--bs-dark-color);
+}
+
+
