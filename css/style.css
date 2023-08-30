@@ -194,4 +194,18 @@ button, a {
     color: var(--bs-dark-color);
 }
 
+.carousel-indicators {
+    bottom: -18%;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: .7rem;
+    height: .7rem;
+    background-color: #1089ff;
+}
+
+.fa-star {
+    color: #c850c0;
+}
+
 
