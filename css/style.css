@@ -208,4 +208,17 @@ button, a {
     color: #c850c0;
 }
 
+/* Expert tips section styling */
+.text-grey {
+    color: var(--bs-primary-color);
+}
+
+.text-grey i {
+    font-size: 0.8rem;
+}
+
+.text-light-grey {
+    color: var(--bs-primary-color);
+}
+
 
